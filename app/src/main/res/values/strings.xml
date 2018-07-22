@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">WebAPI</string>
+    <string name="validar_erro">Erro de conexão</string>
+    <string name="erro_json">Erro nos dados</string>
+    <string name="validar_placa">Preencha o campo com uma placa</string>
+    <string name="validar_conexao">Sem conexão...</string>
+    <string name="validar_busca">Conectando...</string>
+    <string name="placa">Digite uma placa</string>
+    <string name="pesquisa">Pesquisar</string>
+</resources>
